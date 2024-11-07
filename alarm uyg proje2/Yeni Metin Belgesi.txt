@@ -1,0 +1,3 @@
+string ses = Application.StartupPath + "/alarm.wav";
+player.SoundLocation= ses;
+player.PlayLooping();

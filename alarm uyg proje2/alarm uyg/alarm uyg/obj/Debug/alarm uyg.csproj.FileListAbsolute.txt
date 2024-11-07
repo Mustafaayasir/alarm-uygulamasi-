@@ -1,0 +1,10 @@
+C:\Users\yldz3\OneDrive\Masaüstü\proje2\alarm uyg\alarm uyg\bin\Debug\alarm uyg.exe.config
+C:\Users\yldz3\OneDrive\Masaüstü\proje2\alarm uyg\alarm uyg\bin\Debug\alarm uyg.exe
+C:\Users\yldz3\OneDrive\Masaüstü\proje2\alarm uyg\alarm uyg\bin\Debug\alarm uyg.pdb
+C:\Users\yldz3\OneDrive\Masaüstü\proje2\alarm uyg\alarm uyg\obj\Debug\alarm uyg.csproj.AssemblyReference.cache
+C:\Users\yldz3\OneDrive\Masaüstü\proje2\alarm uyg\alarm uyg\obj\Debug\alarm_uyg.Form1.resources
+C:\Users\yldz3\OneDrive\Masaüstü\proje2\alarm uyg\alarm uyg\obj\Debug\alarm_uyg.Properties.Resources.resources
+C:\Users\yldz3\OneDrive\Masaüstü\proje2\alarm uyg\alarm uyg\obj\Debug\alarm uyg.csproj.GenerateResource.cache
+C:\Users\yldz3\OneDrive\Masaüstü\proje2\alarm uyg\alarm uyg\obj\Debug\alarm uyg.csproj.CoreCompileInputs.cache
+C:\Users\yldz3\OneDrive\Masaüstü\proje2\alarm uyg\alarm uyg\obj\Debug\alarm uyg.exe
+C:\Users\yldz3\OneDrive\Masaüstü\proje2\alarm uyg\alarm uyg\obj\Debug\alarm uyg.pdb
